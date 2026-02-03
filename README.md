@@ -70,5 +70,6 @@ Feel free to suggest papers and articles via issues or pull requests!
 ## D. Interpretability
 ### D0. Survey
 **D0.1** Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models--[20 Jan 2026]--[[Paper](https://arxiv.org/abs/2601.14004)]--[[Repo](https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey)]
-
-### D1. LLM Prun
+### D1. Interpretability Safety
+**D1.1** AlphaSteer: Learning Refusal Steering with Principled Null-Space Constraint--[ICLR 2026]--[20 Jan 2026]--[[Paper](https://arxiv.org/abs/2506.07022)]--[[Repo](https://github.com/AlphaLab-USTC/AlphaSteer)]
+### D2. LLM Prun
